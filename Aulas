@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Atividade 03</title>
+</head>
+<body>
+
+<h1>Minha Figura de Aula</h1>
+<details>
+	<summary>Clique aqui</summary>
+	<p>This is a paragraph.</p>
+</iframe>
+</details>
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="700" height="250" style="width:50%"> 
+<figcaption>Fig.1 - Girl in a jacket!!!!</figcaption>
+
+<pre>
+
+Nivel 1
+		Nivel 2
+        		Nivel 3
+</pre>
+
+<div> 
+	Estou dentro de uma DIV
+</div>
+
+</br> 
+
+<span>
+	Estou dentro de um SPAN
+</span>
+
+</body>
+</html>
