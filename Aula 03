@@ -32,5 +32,31 @@ Nivel 1
 	Estou dentro de um SPAN
 </span>
 
+</br>
+</br>
+</br>
+
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Contato</th>
+    <th>Cidade</th>
+  </tr>
+  <tr>
+    <td>Lucio</td>
+    <td>61 9 xxxx-xxxx</td>
+    <td>SANTA CITY</td>
+  </tr>
+  <tr>
+    <td>XXXXXXXXXXX    </td>
+    <td>XXXXXXXXXXX    </td>
+    <td>XXXXXXXXXXXXX  </td>
+  </tr>
+</table>
+
+
+
+
 </body>
 </html>
