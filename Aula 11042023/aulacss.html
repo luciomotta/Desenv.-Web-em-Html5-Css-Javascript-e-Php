@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    .noticia {
+      border: 2px dotted #000000;
+    }
+
+    .noticia .esq:hover ~ div {
+      text-align: left;
+      
+    }
+
+    .noticia .cen:hover ~ div {
+      text-align: center;
+      
+    }
+
+    .noticia .dir:hover ~ div {
+      text-align: right;
+      
+    }
+
+    .noticia .jus:hover ~ div {
+      text-align: justify;
+      
+    }
+    
+  </style>
+</head>
+
+<body>
+<div class="noticia">
+  <a class="esq" href="#">Esquerda</a>
+  <a class="cen" href="#">Centralizado</a>
+  <a class="dir" href="#">Direita</a>
+  <a class="jus" href="#">Justificado</a>
+  <div>
+    <h1>Titulo</h1>
+    <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+  </div>
+</div>
+</body>
+
+</html>
